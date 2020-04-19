@@ -14,7 +14,7 @@ This project shows an example of how to use a Keras model to implement regressio
 *e.g.*
 `pip install -r requirements.txt`
 
-4. There are 2 notebooks, one for image augmentation and another for the training process
+4. There are 2 notebooks (main.ipynb, augment/augment.ipynb), one for the training process and the other one for the image augmentation process
 
 The augmentation is done by using the [Augmentor](https://github.com/mdbloice/Augmentor) package
 The regression process is based on the [Clock-Reader](https://github.com/shivaverma/Clock-Reader) repository
