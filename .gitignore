@@ -199,3 +199,5 @@ Backup[ ]of[ ]*.numbers/
 # Project specific
 # We do not want to upload all the images
 images/*
+radio_images/*
+wattmeter_images/*
